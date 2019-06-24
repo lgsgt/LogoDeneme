@@ -48,7 +48,9 @@
 
 ---
 
-#### OZET
+<p align="center">
+  <b> ÖZET</b><br>
+</p>
 
 * **Parametrik yöntemlerin**, girdi değişkenlerinin çıktı değişkenine eşlenmesiyle ilgili büyük varsayımlarda bulunduğunu ve sırayla daha hızlı eğitildiğini, daha az veri gerektirdiğini ancak bu kadar güçlü olamayacağını öğrendiniz.
 
