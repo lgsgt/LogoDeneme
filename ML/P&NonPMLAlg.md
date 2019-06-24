@@ -45,3 +45,11 @@
 * **Daha fazla veri** : Haritalama fonksiyonunu tahmin etmek için daha fazla egzersiz verisi isteyin.
 * **Yavaş** : Eğitmek için çok daha fazla parametreye sahip oldukları için eğitmek için çok daha yavaştır.
 * **Overfitting** : Eğitim verisine overfit olması daha risklidir ve yapılan spesifik tahminin nedenini açıklama daha zordur.
+
+---
+
+#### OZET
+
+* **Parametrik yöntemlerin**, girdi değişkenlerinin çıktı değişkenine eşlenmesiyle ilgili büyük varsayımlarda bulunduğunu ve sırayla daha hızlı eğitildiğini, daha az veri gerektirdiğini ancak bu kadar güçlü olamayacağını öğrendiniz.
+
+* **Parametrik olmayan yöntemlerin** hedef işlev hakkında az veya hiç varsayımda bulunmadığını ve sırayla çok daha fazla veri gerektirdiğini, daha yavaş eğitildiğini ve daha yüksek bir model karmaşıklığına sahip olduğunu ancak daha güçlü modellerle sonuçlanabileceğini öğrendiniz.
