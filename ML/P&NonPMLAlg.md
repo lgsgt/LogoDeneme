@@ -52,6 +52,8 @@
   <b> ÖZET</b><br>
 </p>
 
+---
+
 * **Parametrik yöntemlerin**, girdi değişkenlerinin çıktı değişkenine eşlenmesiyle ilgili büyük varsayımlarda bulunduğunu ve sırayla daha hızlı eğitildiğini, daha az veri gerektirdiğini ancak bu kadar güçlü olamayacağını öğrendiniz.
 
 * **Parametrik olmayan yöntemlerin** hedef işlev hakkında az veya hiç varsayımda bulunmadığını ve sırayla çok daha fazla veri gerektirdiğini, daha yavaş eğitildiğini ve daha yüksek bir model karmaşıklığına sahip olduğunu ancak daha güçlü modellerle sonuçlanabileceğini öğrendiniz.
