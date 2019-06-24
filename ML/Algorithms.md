@@ -45,7 +45,7 @@
 
 * Algoritmalar genellikle işlevleri bakımından (nasıl çalıştıkları) benzerlik bakımından gruplandırılır.  Bu algoritmaları gruplandırmanın en kullanışlı yolu ve burada kullanacağımız **yaklaşım**.
 * Bu vakaları, algoritmaları iki kez listeleyerek veya öznel olarak **“en uygun”** olan grubu seçerek halledebiliriz.
-* Karşılaştığınız en yaygın iki denetimli makine öğrenme problemi olan sınıflandırma ve regresyon için kullanılan algoritmalara karşı güçlü bir **önyargı var**.
+* Karşılaştığınız en yaygın iki denetimli makine öğrenme problemi olan sınıflandırma ve regresyon için kullanılan algoritmalara karşı güçlü bir **önyargı/sapma(bias) var**.
 ---
 >1)  **Regresyon Algoritmaları**
 
