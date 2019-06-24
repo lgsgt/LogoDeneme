@@ -109,9 +109,16 @@ Bir underfit makine öğrenme modeli uygun bir model değildir ve eğitim verile
 
 * ***Çapraz doğrulama kullanmak, görünmeyen verilerde model doğruluğunu tahmin etmek için uygulamalı makine öğrenmesinde altın bir standarttır. Verilere sahipseniz, bir doğrulama veri kümesi kullanmak da mükemmel bir uygulamadır.***
 
+----
 
+<p align="center">
+  <b> ÖZET  </b><br>
+</p>
 
+* **Overfitting** : Eğitim verilerinde iyi performans verirken, diğer verilere kötü genelleme yapar.
+* **Underfitting** : Eğitim verilerinde düşük performans ve diğer verilere zayıf genelleme yapar.
 
+----
 
 
 
