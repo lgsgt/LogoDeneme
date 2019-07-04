@@ -57,6 +57,6 @@ Normalizing in scikit-learn refers to rescaling each observation (row) to have a
 
 You can transform your data using a binary threshold. All values above the threshold are marked 1 and all equal to or below are marked as 0. This is called binarizing your data or thresholding your data. It can be useful when you have probabilities that you want to make crisp values. It is also useful when feature engineering and you want to add new features that indicate something meaningful. You can create new binary attributes in Python using scikit-learn with the Binarizer class.
 
-![binarize](../Imgs/binarize.PNG)
+![binarize](../Imgs/binarize.png)
 
 
