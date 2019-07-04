@@ -59,4 +59,7 @@ You can transform your data using a binary threshold. All values above the thres
 
 ![binarize](../Imgs/binarize.png)
 
+----
+
+##### References : Machine Learning Mastery with Python - Understand Your Data Create Accurate Models and Work Projects End-to-End - Jason Brownlee Ed: v1.4
 
